@@ -9,12 +9,15 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <p>
- 🌱 I’m currently learning ...
-- 🔭 I’m currently working on ...
-- ⚡ Fun fact: ...
+
+
+
 💬 Ask me about ...
 aspiriing musician, philosopher Ginger</p>
 
+<p>- ⚡ Fun fact: ...</p>
+<p>- 🔭 I’m currently working on ...</p>
+<p> 🌱 I’m currently learning ...</p>
 
 <h2 align="center">You can reach me at :alien:</h2>
 
