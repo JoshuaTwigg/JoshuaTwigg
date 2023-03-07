@@ -1,10 +1,6 @@
-### Hi there 👋
 
 <!--
 **JoshuaTwigg/JoshuaTwigg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 -->
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
@@ -15,7 +11,6 @@
 :studio_microphone:
 :receipt:
 :envelope_with_arrow:
-
 
 <p>- ⚡ Fun fact: ...</p>
 <p>- 🔭 I’m currently working on ...</p>
@@ -39,4 +34,3 @@
 </p>
 
 <h4 align="center">Top langs :tongue:</h4>
-
