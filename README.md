@@ -11,6 +11,10 @@
 <p>
 💬 Ask me about ...
 :guitar: aspiriing musician, philosopher Ginger</p>
+:musical_score:
+:studio_microphone:
+:receipt:
+:envelope_with_arrow:
 
 
 <p>- ⚡ Fun fact: ...</p>
