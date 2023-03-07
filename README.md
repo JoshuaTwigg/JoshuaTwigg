@@ -10,7 +10,8 @@
 
 <p>
 💬 Ask me about ...
-aspiriing musician, philosopher Ginger</p>
+:guitar: aspiriing musician, philosopher Ginger</p>
+
 
 <p>- ⚡ Fun fact: ...</p>
 <p>- 🔭 I’m currently working on ...</p>
