@@ -6,17 +6,11 @@
 
 <p>
 💬 Ask me about ...
-:guitar: aspiriing musician, philosopher Ginger</p>
-:musical_score:
-:studio_microphone:
-:receipt:
-:envelope_with_arrow:
+:guitar::musical_score::studio_microphone: aspiriing musician, philosopher Ginger</p> 
 
-<p>- ⚡ Fun fact: ...</p>
-<p>- 🔭 I’m currently working on ...</p>
-<p> 🌱 I’m currently learning ...</p>
+<p>- 🔭 I’m currently working on ...</p>                                  <p> 🌱:receipt: I’m currently learning ...</p>
 
-<h2 align="center">You can reach me at :alien:</h2>
+<h2 align="center"> :envelope_with_arrow: You can reach me at :alien:</h2>
 
 <p align="center">
 
