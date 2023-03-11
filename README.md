@@ -8,7 +8,7 @@
 💬 Ask me about ...
 :guitar::musical_score::studio_microphone: Music</p> 
 
-<p>- 🔭 I’m currently working on ...</p>                                  <p> 🌱:receipt: I’m currently learning - JAVA, REACT, MACHINE LEARNING ...</p>
+<p>- 🔭 I’m currently working on Programming and Youtube</p>                                  <p> 🌱:receipt: I’m currently learning - JAVA, REACT, MACHINE LEARNING ...</p>
 
 <h2 align="center"> :envelope_with_arrow: You can reach me at :alien:</h2>
 
