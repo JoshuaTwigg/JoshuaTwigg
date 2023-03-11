@@ -10,7 +10,7 @@
 
 <p>- 🔭 I’m currently working on Programming and Youtube</p>                                  <p> 🌱:receipt: I’m currently learning - JAVA, REACT, MACHINE LEARNING ...</p>
 
-<h2 align="center"> :envelope_with_arrow: You can reach me at :alien:</h2>
+<h2 align="center"> :envelope_with_arrow: You can reach me at </h2>
 
 <p align="center">
 
