@@ -2,7 +2,10 @@
 <!--
 **JoshuaTwigg/JoshuaTwigg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img align="center" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" align="center" width="60"> <em><b align="center">I love connecting with different people</b align="center"> so if you want to say <b align="center">hi</b> :)</em>
+<div align="center">
+  <img align="center" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" align="center" width="60"> <em><b align="center">I love   connecting with different people</b> so if you want to say <b>hi</b> :)</em>
+</div>
+
 
 <p align="center">
  💬 Ask me :guitar::musical_score::studio_microphone: </p> 
