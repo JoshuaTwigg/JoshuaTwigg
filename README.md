@@ -14,8 +14,7 @@
 <p align="center"> 🌱:receipt: I’m currently learning - JAVA, REACT, MACHINE LEARNING ...</p>
 
 <br>
-<br>
-<br>
+
 
 <h2 align="center"> :envelope_with_arrow: You can reach me at </h2>
 
