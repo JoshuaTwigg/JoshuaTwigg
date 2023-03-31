@@ -6,16 +6,11 @@
   <img align="center" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" align="center" width="60"> <em><b align="center">I love   connecting with different people</b> so if you want to say <b>hi</b> :)</em>
 </div>
 
-
 <p align="center">
- 💬 Ask me :guitar::musical_score::studio_microphone: </p> 
-
-<p align="center">- 🔭 I’m currently working on Programming and Youtube</p>                                  
+<p align="center">- 🔭 I’m currently working on Programming and Youtube :guitar::musical_score::studio_microphone:</p>                                  
 <p align="center"> 🌱:receipt: I’m currently learning - JAVA, REACT, MACHINE LEARNING ...</p>
 
 <br>
-
-
 <h2 align="center"> :envelope_with_arrow: You can reach me at </h2>
 
 <p align="center">
