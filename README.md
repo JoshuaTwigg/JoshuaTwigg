@@ -8,9 +8,8 @@
 
 <p align="center">
 <p align="center">- 🔭 I’m currently working on Programming and Youtube :guitar::musical_score::studio_microphone:</p>                                  
-<p align="center"> 🌱:receipt: I’m currently learning - JAVA, REACT, MACHINE LEARNING ...</p>
+<p align="center"> 🌱:receipt: I’m currently learning - JAVA, REACT, MACHINE LEARNING ...</p> <h4 align="center">Top langs :tongue:</h4>
 
-<br>
 <h2 align="center"> :envelope_with_arrow: You can reach me at </h2>
 
 <p align="center">
@@ -28,4 +27,3 @@
   </a>
 </p>
 
-<h4 align="center">Top langs :tongue:</h4>
