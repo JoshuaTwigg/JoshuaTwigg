@@ -25,8 +25,9 @@ in these fields I am interested in philosophy and keen for new experiences</p>
 
 <h3 align="left">Other Skills</h3>
 
-- Music, Youtube    
-
+- Music
+- Youtube
+  
 <h3 align="left">Connect with me: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h3> 
 <p align="left">
 <a href="https://www.linkedin.com/in/josh-twigg-b61443267" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="social" height="30" width="40" /></a>
