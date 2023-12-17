@@ -7,9 +7,9 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Josh</h1>
-<h2 align="center">Welcome to my github</h2>
-<h3 align="center">I am an aspiring software developer student from Cape Town</h3>
+<h1 align="left">Hi 👋, I'm Josh</h1>
+<h2 align="left">Welcome to my github</h2>
+<h3 align="left">I am an aspiring software developer student from Cape Town</h3>
 
 ![zzzz](https://github.com/JoshuaTwigg/JoshuaTwigg/assets/105489684/44d7a419-b265-4ca7-89c8-9f9dd2ff7b49)
 
