@@ -59,7 +59,8 @@
 - ⚡ Fun fact **im amazing**
 
 
-https://github.com/JoshuaTwigg/JoshuaTwigg/assets/105489684/f1a5fa6a-11a3-4887-aa26-ac83231c48ba
+
+![800kb (1)](https://github.com/JoshuaTwigg/JoshuaTwigg/assets/105489684/78dcde31-0cb3-4528-bbbc-e2bcc465f3b9)
 
 
 <h3 align="left">Connect with me:</h3>
