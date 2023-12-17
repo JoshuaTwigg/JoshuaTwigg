@@ -30,6 +30,7 @@
 
 
 ![zzzz](https://github.com/JoshuaTwigg/JoshuaTwigg/assets/105489684/44d7a419-b265-4ca7-89c8-9f9dd2ff7b49)
+<img src="[https://github.com/favicon.ico](https://github.com/JoshuaTwigg/JoshuaTwigg/assets/105489684/44d7a419-b265-4ca7-89c8-9f9dd2ff7b49)" width="48" height="40px">
 
 <h1 align="center">Hi 👋, I'm Josh</h1>
 <h2 align="center">Welcome to my github</h2>
