@@ -19,7 +19,7 @@ taught myself how to play various instruments, music production and song writing
 
 - 🔭 I’m currently working on University Group projects [project name A](project name A) love to collaborate on repos
 
-- 🌱 I’m currently learning **Java, React**
+- 🌱 I’m currently learning **Java, React** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - 👨‍💻 All of my projects are available at [link](link)
 
