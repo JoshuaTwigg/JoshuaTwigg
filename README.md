@@ -7,7 +7,7 @@
 
 
 
-<h1 align="left">Hi 👋, I'm Josh</h1>
+<h1 align="left">Hi <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif", I'm Josh</h1>
 <h2 align="left">Welcome to my github</h2>
 <h3 align="left">I am an aspiring software developer student from Cape Town</h3>
 
