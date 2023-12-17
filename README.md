@@ -13,11 +13,11 @@
 taught myself how to play various instruments, music production and song writing for personal projects. programming, amongst others and I am eager to learn more
 in these fields I am interested in philosophy and keen for new experiences</p>
 
-- 🔭 I’m currently working on University Group projects [project name A](project name A) love to collaborate on repos
+- 🔭 I’m currently working on University Group projects [project name A](project name A) love to collaborate on repos.I am usually undertaking music projects:guitar::musical_score::studio_microphone:
 
 - 🌱 I’m currently learning **Java, React**,Ai <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- 👨‍💻 All of my projects are available at [link](link) <p align="center">- 🔭 I am usually undertaking music projects :guitar::musical_score::studio_microphone:</p>                                  
+- 👨‍💻 All of my projects are available at [link](link)                                
 
 
 <h3 align="left">Languages and Tools:</h3>
