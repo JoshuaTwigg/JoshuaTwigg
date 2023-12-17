@@ -59,7 +59,7 @@
 
 - ⚡ Fun fact **im amazing**
 
-<img src="https://github.com/favicon.ico](https://github.com/JoshuaTwigg/JoshuaTwigg/assets/105489684/78dcde31-0cb3-4528-bbbc-e2bcc465f3b9" width="48">
+<img src="https://github.com/favicon.ico](https://github.com/JoshuaTwigg/JoshuaTwigg/assets/105489684/78dcde31-0cb3-4528-bbbc-e2bcc465f3b9" width="48" height="20px">
 
 
 
