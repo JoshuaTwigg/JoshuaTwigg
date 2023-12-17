@@ -16,7 +16,7 @@ in these fields and keen for new experiences</p>
 
 - 🌱 I’m currently learning **Java, React**, **Ai** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- 👨‍💻 All of my projects are available at [[link](link)   ](https://github.com/JoshuaTwigg?tab=repositories)                             
+- 👨‍💻 All of my projects are available at https://github.com/JoshuaTwigg?tab=repositories                           
 
 
 <h3 align="left">Languages and Tools:</h3>
