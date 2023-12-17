@@ -59,7 +59,7 @@
 
 - ⚡ Fun fact **im amazing**
 
-![800kb (1)](https://github.com/JoshuaTwigg/JoshuaTwigg/assets/105489684/78dcde31-0cb3-4528-bbbc-e2bcc465f3b9 ) 
+
 
 
 
