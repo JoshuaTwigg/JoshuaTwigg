@@ -31,6 +31,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Josh</h1>
+<h2 align="center">Welcome to my github</h2>
 <h3 align="center">I am an aspiring software developer student from Cape Town</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=social&label=Profile%20views&color=0e75b6&style=flat" alt="social" /> </p>
