@@ -33,6 +33,8 @@ in these fields I am interested in philosophy and keen for new experiences</p>
 <a href="https://www.youtube.com/c/social" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="social" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/social" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="social" height="30" width="40" /></a>
 </p>
+<br>
+<br>
 
 
 
