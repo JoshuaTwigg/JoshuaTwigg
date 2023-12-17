@@ -36,7 +36,7 @@ in these fields I am interested in philosophy and keen for new experiences</p>
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=social&show_icons=true&locale=en&layout=compact" alt="social" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=social&show_icons=true&locale=en" alt="social" /></p>
 
