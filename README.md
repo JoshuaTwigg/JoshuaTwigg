@@ -59,9 +59,9 @@
 
 - ⚡ Fun fact **im amazing**
 
+<img src="https://github.com/favicon.ico](https://github.com/JoshuaTwigg/JoshuaTwigg/assets/105489684/78dcde31-0cb3-4528-bbbc-e2bcc465f3b9" width="48">
 
 
-![800kb (1)](https://github.com/JoshuaTwigg/JoshuaTwigg/assets/105489684/78dcde31-0cb3-4528-bbbc-e2bcc465f3b9)
 
 
 <h3 align="left">Connect with me:</h3>
