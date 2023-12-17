@@ -13,7 +13,9 @@
 
 ![zzzz](https://github.com/JoshuaTwigg/JoshuaTwigg/assets/105489684/44d7a419-b265-4ca7-89c8-9f9dd2ff7b49)
 
+<p>I enjoy being creative, self taught and building something great from little to nothing and accomplishing a great task with a series of small actions.
 
+taught myself how to play various instruments, music production and song writing for personal projects. programming, amongst others and I am eager to learn more in these fields I am interested in philosophy and keen for new experiences</p>
 
 - 🔭 I’m currently working on University Group projects [project name A](project name A) love to collaborate on repos
 
