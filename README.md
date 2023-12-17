@@ -30,7 +30,7 @@ in these fields I am interested in philosophy and keen for new experiences</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/josh-twigg-b61443267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="social" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/josh-twigg-b61443267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="social" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/social" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="social" height="30" width="40" /></a>
 <a href="https://fb.com/social" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="social" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/social" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="social" height="30" width="40" /></a>
