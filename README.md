@@ -12,8 +12,8 @@
 taught myself how to play various instruments, programming and music production for personal projects. I am eager to learn more
 in these fields and keen for new experiences</p>
 
-- - Recieved access to and completed Codespace Fullstack Developer bootcamp Course
-    (6-9 months course)
+-    Recieved access to, and completed the Codespace Fullstack Developer bootcamp Course
+     (6-9 months course)
 
 - 🔭 I’m usually working on my university degree, or personal coding and music projects :studio_microphone: to improve my skills :guitar:
 
