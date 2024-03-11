@@ -15,7 +15,7 @@ in these fields and keen for new experiences</p>
 -    Recieved access to, and completed the Codespace Fullstack Developer bootcamp Course
      (6-9 months course)
 -->
-- 🔭 I’m usually working on my university degree, or personal coding and music projects :studio_microphone: to improve my skills :guitar:
+- 🔭 I’m usually working on my university degree, personal coding and music projects :studio_microphone: to improve my skills :guitar:
 
 - 🌱 I’m currently learning **Java, React**, **Ai**, **Laravel** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
