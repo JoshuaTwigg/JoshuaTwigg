@@ -5,9 +5,9 @@
 
 <h1 align="left">Hi <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px", I'm Josh</h1>
 <h2 align="left">I am an aspiring software developer student from Cape Town</h2>
-
+<!--
 ![zzzz](https://github.com/JoshuaTwigg/JoshuaTwigg/assets/105489684/44d7a419-b265-4ca7-89c8-9f9dd2ff7b49)
-
+-->
 <p>I enjoy being creative, self taught and building something great from little to nothing and accomplishing a great task with a series of small actions.
 taught myself how to play various instruments, programming and music production for personal projects. I am eager to learn more
 in these fields and keen for new experiences</p>
