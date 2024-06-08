@@ -19,9 +19,9 @@ in these fields and keen for new experiences</h3>
 
 <br></br>
 - 🔭 Currently Studying at Cape Peninsula University, or working on personal coding and music projects :studio_microphone: 
-
+<!--
 - 🌱 I’m currently learning **Java, React**, **Ai**, **Laravel, ReactNative Nodejs Mern** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-
+-->
 - 👨‍💻 All of my projects are available at https://github.com/JoshuaTwigg?tab=repositories                           
 
 
