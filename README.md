@@ -51,7 +51,7 @@ in these fields and keen for new experiences</h3>
 
      
 
-<h3 align="left">Experience and other skills</h3>
+<h2 align="left">Experience and other skills</h2>
 - Designed a website for a local cafe with a friend <br>
 - Extra on sets <br>
 - Music <br>
