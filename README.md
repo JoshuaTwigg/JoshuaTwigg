@@ -18,9 +18,10 @@ in these fields.</h3>
 
 <br></br>
 - 🔭 Currently Studying at Cape Peninsula University
--    Recieved access to, and completed the Codespace Fullstack Developer bootcamp Course
-     (6-9 months course)
+-    completed the Codespace Fullstack Developer bootcamp 
+    
 <!--
+ (6-9 months course)
 - , or working on personal coding and music projects :studio_microphone: 
 - 🌱 I’m currently learning **Java, React**, **Ai**, **Laravel, ReactNative Nodejs Mern** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 -->
