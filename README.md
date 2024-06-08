@@ -11,15 +11,16 @@
 
 <h3>I enjoy being creative, self taught and building something great from scratch.
 taught myself how to play various instruments, programming and music production for personal projects. I am eager to learn more
-in these fields and keen for new experiences</h3>
+in these fields.</h3>
 <!--
--    Recieved access to, and completed the Codespace Fullstack Developer bootcamp Course
-     (6-9 months course)
+
+     and keen for new experiences
 -->
 
 <br></br>
 - 🔭 Currently Studying at Cape Peninsula University
-
+-    Recieved access to, and completed the Codespace Fullstack Developer bootcamp Course
+     (6-9 months course)
 <!--
 - , or working on personal coding and music projects :studio_microphone: 
 - 🌱 I’m currently learning **Java, React**, **Ai**, **Laravel, ReactNative Nodejs Mern** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
