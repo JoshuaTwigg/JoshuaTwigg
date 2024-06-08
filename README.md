@@ -8,6 +8,7 @@
 <!--
 ![zzzz](https://github.com/JoshuaTwigg/JoshuaTwigg/assets/105489684/44d7a419-b265-4ca7-89c8-9f9dd2ff7b49)
 -->
+
 <p>I enjoy being creative, self taught and building something great from scratch.
 taught myself how to play various instruments, programming and music production for personal projects. I am eager to learn more
 in these fields and keen for new experiences</p>
@@ -15,6 +16,8 @@ in these fields and keen for new experiences</p>
 -    Recieved access to, and completed the Codespace Fullstack Developer bootcamp Course
      (6-9 months course)
 -->
+
+<br></br>
 - 🔭 Currently Studying at Cape Peninsula University, or working on personal coding and music projects :studio_microphone: 
 
 - 🌱 I’m currently learning **Java, React**, **Ai**, **Laravel, ReactNative Nodejs Mern** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
