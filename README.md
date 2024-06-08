@@ -74,9 +74,9 @@ in these fields and keen for new experiences</p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=social&show_icons=true&locale=en" alt="social" /></p>
-
+<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=social&" alt="social" /></p>
-
+-->
 
 
 
