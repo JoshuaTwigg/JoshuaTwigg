@@ -13,8 +13,7 @@
 taught myself how to play various instruments, programming and music production for personal projects. I am eager to learn more
 in these fields.</h3>
 <!--
-
-     and keen for new experiences
+   and keen for new experiences
 -->
 
 <br></br>
