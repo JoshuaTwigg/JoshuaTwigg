@@ -15,7 +15,7 @@ in these fields and keen for new experiences</p>
 -    Recieved access to, and completed the Codespace Fullstack Developer bootcamp Course
      (6-9 months course)
 -->
-- 🔭 I’m usually working on my university degree, personal coding and music projects :studio_microphone: to improve my skills :guitar:
+- 🔭 Currently Studying at Cape Peninsula University, or working on personal coding and music projects :studio_microphone: 
 
 - 🌱 I’m currently learning **Java, React**, **Ai**, **Laravel, ReactNative Nodejs Mern** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
