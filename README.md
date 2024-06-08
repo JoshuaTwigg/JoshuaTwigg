@@ -17,8 +17,8 @@ in these fields.</h3>
 -->
 
 <br></br>
-- 🔭 Currently Studying at Cape Peninsula University
--    completed the Codespace Fullstack Developer bootcamp 
+- Currently Studying at Cape Peninsula University 🔭 
+- completed the Codespace Fullstack Developer bootcamp 
     
 <!--
  (6-9 months course)
