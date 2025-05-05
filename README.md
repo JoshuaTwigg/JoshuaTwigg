@@ -14,16 +14,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/rock--climber-%F0%9F%A7%97%EF%B8%8F-blue" />
-  <img src="https://img.shields.io/badge/windows%20power--user-%F0%9F%92%BB-lightgrey" />
-  <img src="https://img.shields.io/badge/back--end%20dev-%F0%9F%92%BB-green" />
-</p>
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80" alt="Rock climbing banner"/>
-</p>
-
-<p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Rock_climbing_pictogram.svg" width="60" />
   <img src="https://img.shields.io/badge/I%20climb-%F0%9F%A7%97%EF%B8%8F%20rock%20walls-orange" />
 </p>
