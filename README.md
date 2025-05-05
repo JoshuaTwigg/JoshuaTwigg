@@ -18,7 +18,11 @@
   <img src="https://img.shields.io/badge/I%20climb-%F0%9F%A7%97%EF%B8%8F%20rock%20walls-orange" />
 </p>
 
-Hey there 👋,
+<h1 align="left">Hi <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px", I'm Josh</h1>
+<h2 align="left">I am an aspiring software developer from Cape Town</h2>
+<!--
+![zzzz](https://github.com/JoshuaTwigg/JoshuaTwigg/assets/105489684/44d7a419-b265-4ca7-89c8-9f9dd2ff7b49)
+-->
 
 I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.  You can see a full list of what I am up to on [waylonwalker.com](waylonwalker.com).  If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/bBdtMQO), give me a shout out [@_waylonwalker](https://twitter.com/_waylonwalker), give some ♥ on [DEV.to/waylonwalker](https://dev.to/waylonwalker), or sign up for my newsletter  at waylonwalker.com/newsletter  I would love to see you join.
 
