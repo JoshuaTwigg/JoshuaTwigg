@@ -41,8 +41,10 @@ I'm a rock climber and a developer — always reaching for the next solution
   <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
 </p>
 
+ <p>
+  <img width="250" align='left' src=" ![rockClimbLogo](https://github.com/user-attachments/assets/614ee703-c671-4023-8cf8-a2ee5a28a3b8)">
+</p>
 
- ![rockClimbLogo](https://github.com/user-attachments/assets/614ee703-c671-4023-8cf8-a2ee5a28a3b8)
 
  
 ### Boy Scout Rule
