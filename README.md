@@ -13,6 +13,12 @@
 <a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/rock--climber-%F0%9F%A7%97%EF%B8%8F-blue" />
+  <img src="https://img.shields.io/badge/windows%20power--user-%F0%9F%92%BB-lightgrey" />
+  <img src="https://img.shields.io/badge/back--end%20dev-%F0%9F%92%BB-green" />
+</p>
+
 Hey there 👋,
 
 I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.  You can see a full list of what I am up to on [waylonwalker.com](waylonwalker.com).  If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/bBdtMQO), give me a shout out [@_waylonwalker](https://twitter.com/_waylonwalker), give some ♥ on [DEV.to/waylonwalker](https://dev.to/waylonwalker), or sign up for my newsletter  at waylonwalker.com/newsletter  I would love to see you join.
