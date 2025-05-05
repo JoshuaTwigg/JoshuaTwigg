@@ -37,32 +37,7 @@ in these fields.   and keen for new experiences
 - 🌱 I’m currently learning **Java, React**, **Ai**, **Laravel, ReactNative Nodejs Mern** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👨‍💻 All of my projects are available at https://github.com/JoshuaTwigg?tab=repositories
 
-  <h2 align="left">Experience and other skills</h2>
-- Designed a website for a local cafe with a friend <br>
-- Extra on sets <br>
-- Music <br>
-- Youtube <br>
-  
-<h3 align="left">Connect with me: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h3> 
-<p align="left">
-<a href="https://www.linkedin.com/in/josh-twigg-b61443267" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="social" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/social" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="social" height="30" width="40" /></a>
-<!--
-<a href="https://www.youtube.com/c/social" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="social" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/social" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="social" height="30" width="40" /></a>
--->
-</p>
-<br>
-<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=social&show_icons=true&locale=en" alt="social" /></p>
-<!--
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=social&" alt="social" /></p>
-  ---
- 
- <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
-</p>
  
 ### Boy Scout Rule
 
