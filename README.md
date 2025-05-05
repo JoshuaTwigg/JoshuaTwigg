@@ -1,4 +1,4 @@
-<!--
+![rockClimbLogo](https://github.com/user-attachments/assets/d40472e6-ca47-4315-a507-545d693ad359)<!--
 # [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)](https://waylonwalker.com)
 -->
 ![9996](https://github.com/user-attachments/assets/8c3914b7-bebf-4d11-8e98-65e96d292a1a)
@@ -39,6 +39,10 @@ I'm a rock climber and a developer — always reaching for the next solution
  
  <p>
   <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+</p>
+
+ <p>
+ ![rockClimbLogo](https://github.com/user-attachments/assets/614ee703-c671-4023-8cf8-a2ee5a28a3b8)
 </p>
  
 ### Boy Scout Rule
