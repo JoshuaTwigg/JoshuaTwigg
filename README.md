@@ -27,23 +27,13 @@ I am an aspiring software developer from Cape Town
 -->
 
 I am creative and self motivated, with a passion for building creative projects from
-the ground up. I am driven by the desire to learn and master new skills. My goal is to
-become an experienced software developer in an established company, where I can
-contribute my talents and continuously improve as both a developer and a creator.
-
-
-I enjoy being creative, self taught and building something great from scratch.
-taught myself how to play various instruments, programming and music production for personal projects. I am eager to learn more
-in these fields.   and keen for new experiences
+the ground up. I am driven by the desire to learn and master new skills.
 
 I'm a rock climber and a developer — always reaching for the next solution
 
 - Currently Studying at Cape Peninsula University 🔭 
 - completed the Codespace Fullstack Developer bootcamp
--  (6-9 months course)
-- , or working on personal coding and music projects :studio_microphone: 
 - 🌱 I’m currently learning **Java, React**, **Ai**, **Laravel, ReactNative Nodejs Mern** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 👨‍💻 All of my projects are available at https://github.com/JoshuaTwigg?tab=repositories
 
 Hey there 👋,
 
