@@ -36,6 +36,8 @@ I enjoy being creative, self taught and building something great from scratch.
 taught myself how to play various instruments, programming and music production for personal projects. I am eager to learn more
 in these fields.   and keen for new experiences
 
+I'm a rock climber and a developer — always reaching for the next solution
+
 - Currently Studying at Cape Peninsula University 🔭 
 - completed the Codespace Fullstack Developer bootcamp
 -  (6-9 months course)
