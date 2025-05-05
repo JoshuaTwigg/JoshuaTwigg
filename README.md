@@ -35,10 +35,6 @@ I'm a rock climber and a developer — always reaching for the next solution
 - completed the Codespace Fullstack Developer bootcamp
 - 🌱 I’m currently learning **Java, React**, **Ai**, **Laravel, ReactNative Nodejs Mern** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-Hey there 👋,
-
-I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.  You can see a full list of what I am up to on [waylonwalker.com](waylonwalker.com).  If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/bBdtMQO), give me a shout out [@_waylonwalker](https://twitter.com/_waylonwalker), give some ♥ on [DEV.to/waylonwalker](https://dev.to/waylonwalker), or sign up for my newsletter  at waylonwalker.com/newsletter  I would love to see you join.
-
   ---
  
  <p>
