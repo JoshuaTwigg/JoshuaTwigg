@@ -26,6 +26,12 @@ I am an aspiring software developer from Cape Town
 ![zzzz](https://github.com/JoshuaTwigg/JoshuaTwigg/assets/105489684/44d7a419-b265-4ca7-89c8-9f9dd2ff7b49)
 -->
 
+I am creative and self motivated, with a passion for building creative projects from
+the ground up. I am driven by the desire to learn and master new skills. My goal is to
+become an experienced software developer in an established company, where I can
+contribute my talents and continuously improve as both a developer and a creator.
+
+
 I enjoy being creative, self taught and building something great from scratch.
 taught myself how to play various instruments, programming and music production for personal projects. I am eager to learn more
 in these fields.   and keen for new experiences
