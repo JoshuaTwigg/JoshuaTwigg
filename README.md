@@ -8,6 +8,11 @@
 </p>
 
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Rock_climbing_pictogram.svg" width="60" />
+  <img src="https://img.shields.io/badge/I%20climb-%F0%9F%A7%97%EF%B8%8F%20rock%20walls-orange" />
+</p>
+
 Hi <img width="10px"  height="10px"  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif"> ,
 
 I'm Josh
