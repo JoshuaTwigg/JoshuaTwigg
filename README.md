@@ -2,7 +2,7 @@
 ![rockClimbLogo](https://github.com/user-attachments/assets/d40472e6-ca47-4315-a507-545d693ad359)<!--
 # [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)](https://waylonwalker.com)
 -->
-<img src="https://github.com/user-attachments/assets/bf799ffd-7bae-46dc-bab2-21e38658ffb9" style="width: 100%; height: 450px; object-fit: cover;" />
+<img src="https://github.com/user-attachments/assets/bf799ffd-7bae-46dc-bab2-21e38658ffb9" style="width: 100%; height: 350px; object-fit: cover;" />
 
 
 <p align='center'>
