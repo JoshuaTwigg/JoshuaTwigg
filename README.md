@@ -59,21 +59,6 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 
 ### My Digital Garden 🌱
 
-I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
-
-I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
-
-[Latest Post 👉](https://waylonwalker.com/latest)
-
-<details>
- <summary><strong>other favorite posts</strong></summary>
- <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://images.waylonwalker.com/eight-years-cat-og.png?raw=true"></a>
- <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://images.waylonwalker.com/what-are-github-actions-og.png?raw=true"></a>
- 
-</details>
-
-💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
-
 ---
 
 
