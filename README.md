@@ -1,7 +1,4 @@
-<!--
-![rockClimbLogo](https://github.com/user-attachments/assets/d40472e6-ca47-4315-a507-545d693ad359)<!--
-# [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)](https://waylonwalker.com)
--->
+
 <img src="https://github.com/user-attachments/assets/bf799ffd-7bae-46dc-bab2-21e38658ffb9" style="width: 100%; height: 350px; object-fit: cover;" />
 
 
@@ -20,9 +17,6 @@ Hi <img width="10px"  height="10px"  src="https://github.com/rajput2107/rajput21
 I'm Josh
 
 I am an aspiring software developer from Cape Town
-<!--
-![zzzz](https://github.com/JoshuaTwigg/JoshuaTwigg/assets/105489684/44d7a419-b265-4ca7-89c8-9f9dd2ff7b49)
--->
 
 I am creative and self motivated, with a passion for building creative projects from
 the ground up. I am driven by the desire to learn and master new skills.
