@@ -15,7 +15,10 @@
   <img src="https://img.shields.io/badge/I%20climb-%F0%9F%A7%97%EF%B8%8F%20rock%20walls-orange" />
 </p>
 
-Hi <img width="10px"  height="10px"  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif"> , I'm Josh
+Hi <img width="10px"  height="10px"  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif"> ,
+
+I'm Josh
+
 I am an aspiring software developer from Cape Town
 <!--
 ![zzzz](https://github.com/JoshuaTwigg/JoshuaTwigg/assets/105489684/44d7a419-b265-4ca7-89c8-9f9dd2ff7b49)
