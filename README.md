@@ -20,10 +20,9 @@ I'm a rock climber and a developer — always reaching for the next solution
 - 🌱 I’m currently learning **Java, React**, **Ai**, **Laravel, Nodejs, Mern** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
   ---
- 
-
  <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <img width="250" align='left' src="
+![TESTTT](https://github.com/user-attachments/assets/afaf95ba-7be1-406c-a429-0c8cf07b88ea)">
 </p>
 
 
