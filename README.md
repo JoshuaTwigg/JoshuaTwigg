@@ -1,5 +1,6 @@
-
+<!--
 <img src="https://github.com/user-attachments/assets/bf799ffd-7bae-46dc-bab2-21e38658ffb9" style="width: 100%; height: 350px; object-fit: cover;" />
+-->
 
 <img src="https://github.com/user-attachments/assets/46f06aab-80d8-45e2-bc74-cfbf154b687a" style="width: 100%; height: 350px; object-fit: cover;" />
 
