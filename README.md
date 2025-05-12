@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/bf799ffd-7bae-46dc-bab2-21e38658ffb9" style="width: 100%; height: 350px; object-fit: cover;" />
 -->
 
-<img src="https://github.com/user-attachments/assets/fb449cdb-6af6-4640-83e0-2d1d7c774474" style="width: 100%; height: 200px; object-fit: cover;" />
+<img src="https://github.com/user-attachments/assets/fb449cdb-6af6-4640-83e0-2d1d7c774474" style="width: 100%; height: 225px; object-fit: cover;" />
 
 <p align='center'>
 
