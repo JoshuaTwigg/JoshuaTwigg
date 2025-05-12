@@ -17,6 +17,7 @@ the ground up. I am driven by the desire to learn and master new skills.
 
 I'm a rock climber and a developer — always reaching for the next solution
 
+  ---
 - Currently Studying at Cape Peninsula University 🔭 
 - completed the Codespace Fullstack Developer bootcamp
 - 🌱 I’m currently learning **Java, React**, **Ai**, **Laravel, Nodejs, Mern** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
