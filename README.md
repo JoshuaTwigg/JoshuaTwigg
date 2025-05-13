@@ -6,7 +6,7 @@
 
 <p align='center'>
 
-<a href="https://www.linkedin.com/in/josh-twigg-b61443267/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50">
 </p>
 
 Hi <img width="15px"  height="15px"  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif"> , I'm Josh
@@ -22,7 +22,6 @@ I'm a rock climber and a developer — always reaching for the next solution
  <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50">
 </div>
 - 🌱 I’m currently learning **Java, React**, **Ai**, **Laravel, Nodejs, Mern** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
