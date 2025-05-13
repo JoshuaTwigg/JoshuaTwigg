@@ -6,7 +6,7 @@
 
 <p align='center'>
 
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" href="https://www.linkedin.com/in/josh-twigg-b61443267/" width="50">
 </p>
 
 Hi <img width="15px"  height="15px"  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif"> , I'm Josh
