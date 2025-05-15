@@ -43,6 +43,8 @@ I’m a self-taught programmer with a passion for solving real-world problems th
 
  ---
 
+<img src="https://github.com/user-attachments/assets/b8548429-f57a-4d48-8da0-14f9b7c6368e" alt="Rock Climbing Image" width="300">
+
 
 
 ### My Digital Garden 🌱
