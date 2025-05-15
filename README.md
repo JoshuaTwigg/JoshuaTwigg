@@ -4,12 +4,11 @@
 
 <img src="https://github.com/user-attachments/assets/fb449cdb-6af6-4640-83e0-2d1d7c774474" style="width: 100%; height: 225px; object-fit: cover;" />
 
-<div style="text-align: center;">
+<p align="center">
   <a href="https://www.linkedin.com/in/josh-twigg-b61443267/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" alt="LinkedIn Profile">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" alt="LinkedIn Profile" />
   </a>
-</div>
-
+</p>
 
 Hi <img width="15px"  height="15px"  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif"> , I'm Josh
 
