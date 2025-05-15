@@ -44,7 +44,8 @@ I'm a rock climber and a developer — always reaching for the next solution
 
 I’m a self-taught programmer with a passion for solving real-world problems through code. My journey into software development began out of curiosity and quickly grew into a passion for continuous learning and improvement.
 
-<img src="https://github.com/user-attachments/assets/b8548429-f57a-4d48-8da0-14f9b7c6368e" alt="Rock Climbing Image" width="300">
+<img src="https://github.com/user-attachments/assets/b8548429-f57a-4d48-8da0-14f9b7c6368e" alt="Rock Climbing Image" width="250" height="250">
+
  ---
 
   <!-- 
