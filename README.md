@@ -30,6 +30,8 @@ I'm a rock climber and a developer — always reaching for the next solution
 -->
 
  I’m currently learning **Java, React**, **MachineLearning**
+
+ 
   ---
  <p>
   <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
