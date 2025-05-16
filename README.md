@@ -12,7 +12,7 @@
 
 Hi <img width="15px"  height="15px"  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif"> I'm Josh
 
-I am an aspiring software developer from Cape Town I am creative and self motivated, with a passion for building creative projects from
+I am an aspiring software developer from Cape Town. I am creative and self motivated, with a passion for building creative projects from
 the ground up. I am driven by the desire to learn and master new skills.
 
 I'm a rock climber and a developer — always reaching for the next solution
