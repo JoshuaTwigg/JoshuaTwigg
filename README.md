@@ -25,7 +25,7 @@ I'm a rock climber and a developer — always reaching for the next solution
 - 🌱 I’m currently learning **Java, React**, **Ai**, **Laravel, Nodejs, Mern** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 -->
 
- I’m currently learning **Java, React**, **MachineLearning**
+ I’m currently learning **Java, React**, **SpringBoot**, **MachineLearning**
  
  <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
